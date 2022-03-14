@@ -1,0 +1,10 @@
+
+Entity Framework (.Net framework)=> ORM ==>object RElational Mapping
+ 3 different approaches to communicate with db
+1.Database first Approach ==> existing Database
+2.Model First approach
+3.Code First approach
+
+
+Entity Framework Core (.Net Core)
+

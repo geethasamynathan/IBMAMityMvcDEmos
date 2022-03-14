@@ -1,0 +1,36 @@
+﻿@model EmptyMVCDemo1.ViewModels.EmployeeDetailViewModel
+@{
+    ViewBag.Title = "Index1";
+}
+
+<h2>Index1</h2>
+
+<table border="1">
+    <tr>
+        <th colspan="2"> Employee Details</th>
+    </tr>
+    <tr>
+        <td>Name</td>
+        <td>@Model.Employee.EmployeeId</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>@Model.Employee.Gender</td>
+    </tr>
+    <tr>
+        <td>Salary</td>
+        <td>@Model.Employee.Salary</td>
+    </tr>
+    <tr>
+        <td>City</td>
+        <td>@Model.Address.City</td>
+    </tr>
+    <tr>
+        <td>State</td>
+        <td>@Model.Address.State</td>
+    </tr>
+    <tr>
+        <td>Country</td>
+        <td>@Model.Address.Country</td>
+    </tr>
+</table>

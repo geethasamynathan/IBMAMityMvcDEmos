@@ -1,0 +1,13 @@
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\obj\Debug\net5.0\EmployeeBusinessLayer.csproj.AssemblyReference.cache
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\obj\Debug\net5.0\EmployeeBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\obj\Debug\net5.0\EmployeeBusinessLayer.AssemblyInfoInputs.cache
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\obj\Debug\net5.0\EmployeeBusinessLayer.AssemblyInfo.cs
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\obj\Debug\net5.0\EmployeeBusinessLayer.csproj.CoreCompileInputs.cache
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\bin\Debug\net5.0\EmployeeBusinessLayer.dll.config
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\bin\Debug\net5.0\EmployeeBusinessLayer.deps.json
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\bin\Debug\net5.0\EmployeeBusinessLayer.dll
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\bin\Debug\net5.0\ref\EmployeeBusinessLayer.dll
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\bin\Debug\net5.0\EmployeeBusinessLayer.pdb
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\obj\Debug\net5.0\EmployeeBusinessLayer.dll
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\obj\Debug\net5.0\ref\EmployeeBusinessLayer.dll
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\EmployeeBusinessLayer\obj\Debug\net5.0\EmployeeBusinessLayer.pdb

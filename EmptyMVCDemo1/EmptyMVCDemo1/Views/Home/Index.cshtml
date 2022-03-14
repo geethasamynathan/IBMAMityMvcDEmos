@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h1> Passing data from Controller to view using ViewData </h1>
+<h3>
+    Employee Id :@ViewData["id"] <br />
+    Employee Name :@ViewData["name"]
+</h3>
+<h1> Passing data from Controller to view using ViewBag </h1>
+<h3>
+    Employee Id :@ViewBag.eid <br />
+    Employee Name :@ViewBag.ename
+</h3>
+
+@{
+    var emp = ViewData["emp1"] as EmptyMVCDemo1.Models.Employee;
+    var emp1 = ViewBag.Employeeinfo;
+
+}
+
+<h1> Passing data from Controller to view using ViewData Employee Info </h1>
+<table border="1px">
+    <tr>
+        <td colspan="2"> Employee details</td>
+    </tr>
+    <tr>
+        <td>Employee Id</td>
+        <td>@emp.EmployeeId</td>
+    </tr>
+    <tr>
+        <td>Employee Name</td>
+        <td>@emp.Name</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>@emp.Gender</td>
+    </tr>
+    <tr>
+        <td>City</td>
+        <td>@emp.City</td>
+    </tr>
+    <tr>
+        <td>Salary</td>
+        <td>@emp.Salary</td>
+
+    </tr>
+
+
+</table>
+
+<h1> Passing data from Controller to view using ViewBag Employee Info </h1>
+<table border="1px">
+    <tr>
+        <td colspan="2"> Employee details</td>
+    </tr>
+    <tr>
+        <td>Employee Id</td>
+        <td>@emp1.EmployeeId</td>
+    </tr>
+    <tr>
+        <td>Employee Name</td>
+        <td>@emp1.Name</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>@emp1.Gender</td>
+    </tr>
+    <tr>
+        <td>City</td>
+        <td>@emp1.City</td>
+    </tr>
+    <tr>
+        <td>Salary</td>
+        <td>@emp1.Salary</td>
+
+    </tr>
+
+
+</table>

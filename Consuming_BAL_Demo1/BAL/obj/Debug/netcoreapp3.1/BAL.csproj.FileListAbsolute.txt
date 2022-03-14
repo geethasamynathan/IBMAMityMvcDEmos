@@ -1,0 +1,10 @@
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\obj\Debug\netcoreapp3.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+D:\IBM Amity\MVC Demos\Consuming_BAL_Demo1\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache

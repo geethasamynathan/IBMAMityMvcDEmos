@@ -1,0 +1,10 @@
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\bin\Debug\netstandard2.1\BALDemo1.deps.json
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\bin\Debug\netstandard2.1\BALDemo1.dll
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\bin\Debug\netstandard2.1\BALDemo1.pdb
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\obj\Debug\netstandard2.1\BALDemo1.csproj.AssemblyReference.cache
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\obj\Debug\netstandard2.1\BALDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\obj\Debug\netstandard2.1\BALDemo1.AssemblyInfoInputs.cache
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\obj\Debug\netstandard2.1\BALDemo1.AssemblyInfo.cs
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\obj\Debug\netstandard2.1\BALDemo1.csproj.CoreCompileInputs.cache
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\obj\Debug\netstandard2.1\BALDemo1.dll
+D:\IBM Amity\MVC Demos\BALDemo1\BALDemo1\obj\Debug\netstandard2.1\BALDemo1.pdb

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<PartialView1.Models.Product>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2> Home-Index</h2>
+
+@*@Html.Partial("ProductDetails",Model)*@
+@{
+    Html.RenderPartial("ProductDetails", Model);
+}
